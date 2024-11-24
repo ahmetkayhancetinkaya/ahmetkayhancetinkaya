@@ -31,10 +31,23 @@ If you'd like to collaborate on projects, feel free to reach out! 🌟
 - https://www.fiverr.com/s/o8YL20L (Gig)
 
 
+## 🏆 Achievements
+
+- **[Turkcell Geleceği Yazanlar - HTML5 & CSS 201](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - JavaScript 301](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - Algorithm and Programming with C# 101](#)**: Completed in November 2022.
+- **[BTK Akademi - CSS Fundamentals](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - HTML 101](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - Java 101](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - Python 101](#)**: Completed in November 2022.
+- **[Turkcell Geleceği Yazanlar - Visual and Object Oriented Programming with C# Form 101](#)**: Completed in November 2022.
+- **[BTK Akademi - Vue.Js](#)**: Completed in November 2022.
+- **[BTK Akademi - Advanced Java](#)**: Completed in September 2021.
+- **[Developing Young Innovative Entrepreneurial Leader in STE(A)M Fields in Eastern Marmara Region](#)**: Completed in March 2021.
+- **[Millî Eğitim Bakanlığı - Diction Certificate](#)**: Completed in January 2017.
+
 ---
 
 🚀 **I'm always open to learning and sharing new things!**  
 Stay tuned and let's create bigger projects together!
-
-
 
