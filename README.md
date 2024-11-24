@@ -1,4 +1,4 @@
-# Hi, I am Ahmet Kayhan! 👋
+<marquee behavior="scroll" direction="left">Ahmet Kayhan Çetinkaya</marquee>
 
 
 ## 👨‍💻 About Me
