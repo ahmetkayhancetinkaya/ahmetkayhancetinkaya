@@ -1,4 +1,4 @@
-<marquee behavior="scroll" direction="left">Ahmet Kayhan Çetinkaya</marquee>
+<p1 style="color:orange">Ahmet Kayhan Çetinkaya</p1>
 
 
 ## 👨‍💻 About Me
