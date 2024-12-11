@@ -51,3 +51,6 @@ If you'd like to collaborate on projects, feel free to reach out! 🌟
 🚀 **I'm always open to learning and sharing new things!**  
 Stay tuned and let's create bigger projects together!
 
+
+[CV Download](./Ahmet_Kayhan_CETINKAYA_En_CV.pdf)
+
